@@ -1,0 +1,22 @@
+.flag{
+    border: 2px;
+    
+}
+.red{
+    background-color: red;
+    width: 500px;
+    height: 100px;
+}
+
+
+.white{
+    background-color: white;
+    width: 500px;
+    height: 100px;
+}
+
+.black{
+    background-color: red;
+    width: 500px;
+    height: 100px;
+}
